@@ -22,3 +22,15 @@ class Solution {
         return Math.max(leftDepth, rightDepth) + 1;
     }
 }
+
+public class TestMaxDepth {
+    public static void main(String[] args) {
+        TreeNode root = new TreeNode(3, 
+                new TreeNode(9), 
+                new TreeNode(20, new TreeNode(15), new TreeNode(7))
+        );
+
+        Solution solution = new Solution();
+        System.out.println("Maksymalna głębokość drzewa: " + solution.maxDepth(root)); // Output: 3
+    }
+}
