@@ -19,11 +19,8 @@ Każdy węzeł **sprawdza maksymalną głębokość swojego lewego i prawego pod
 
 Przykładowe drzewo:  
 
-    3
-   / \
-  9   20
-     /  \
-    15   7
+![obraz](https://github.com/user-attachments/assets/90a6657e-1ad7-4ef6-ba79-75f1b8bfd87a)
+
 
   
 ### **1️⃣ Wywołujemy `maxDepth(3)`**
