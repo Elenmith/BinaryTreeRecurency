@@ -10,7 +10,7 @@ To **my mówimy jej**, jak przechodzić po nim dzięki **rekurencji**.
 ## 📌 **Jak działa `maxDepth`?**
 Każdy węzeł **sprawdza maksymalną głębokość swojego lewego i prawego poddrzewa**, a następnie dodaje `+1`, bo liczy też siebie.
 
-💡 **FILO - Stos (First In, Last Out)** → Rekurencja działa jak **stos wywołań funkcji**, czyli najpierw wchodzimy w głąb, a potem się cofamy.
+💡 **LIFO - Stos (Last In, First Out)** → Rekurencja działa jak **stos wywołań funkcji**, czyli najpierw wchodzimy w głąb, a potem się cofamy.
 
 ---
 
