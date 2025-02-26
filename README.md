@@ -1,4 +1,4 @@
-# 🌳 Maximum Depth of Binary Tree
+# 🌳 Maximum Depth of Binary Tree - Wyszukiwanie najgłębszego powiązania w drzewie binarnym.
 
 ## 🔹 Jak działa Binary Tree MaxDepth na przykładzie Javy?
 
